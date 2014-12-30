@@ -1,0 +1,7 @@
+" FIXME:
+" <sfile> in vimspec files are not supported yet. the following code should be
+" fixed whenever vim-themis support it.
+let g:vital_text_ini_repository_root = expand('<sfile>:p:h:h')
+
+call themis#option('recursive', 1)
+call themis#helper('command').with(themis#helper('assert'))

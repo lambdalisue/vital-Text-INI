@@ -18,7 +18,7 @@ INTRODUCTIONS
 USAGE
 ==============================================================================
 
-See [test spec](https://github.com/lambdalisue/vital-Text-INI/blob/master/test/vital-text-ini.vimspec).
+See [test spec](https://github.com/lambdalisue/vital-Text-INI/blob/master/test/vital_text_ini.vimspec).
 
 
 INSTALL

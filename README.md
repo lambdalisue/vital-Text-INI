@@ -2,7 +2,7 @@ vital-Text-INI
 ==============================================================================
 [![Build Status](https://travis-ci.org/lambdalisue/vital-Text-INI.svg)](https://travis-ci.org/lambdalisue/vital-Text-INI)
 
-**It will be merged into [vital.vim](https://github.com/vim-jp/vital.vim/pull/247)**
+**It has been merged into [vital.vim](https://github.com/vim-jp/vital.vim/pull/247)**
 
 A simple INI file parser for vital.vim
 
